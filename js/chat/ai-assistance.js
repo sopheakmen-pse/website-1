@@ -1,0 +1,1 @@
+console.log(”I have created a ai-assistance function!”);
