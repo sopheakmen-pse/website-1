@@ -1,0 +1,1 @@
+console.log("I have created an asset management function!");
